@@ -12,71 +12,71 @@ var today = weekday[d.getDay()];
 
 var yukthaarMessMenu = {};
 yukthaarMessMenu[weekday[1]] = {
-"Breakfast" : "Ragi\nIdly-Sambar\nKaram podi",
+"Breakfast" : "Ragi <br />Idly-Sambar <br />Karam podi",
 
-"Lunch" : "Masoor Dal\nLauki\nKadi\nVegetable pickle",
+"Lunch" : "Masoor Dal <br />Lauki <br />Kadi <br />Vegetable pickle",
 
-"Dinner" : "Mix veg\nMoong Dal",
+"Dinner" : "Mix veg <br />Moong Dal",
 
-"Snacks" : "Sabudana khichdi\nCurd"
+"Snacks" : "Sabudana khichdi <br />Curd"
 };
 
 yukthaarMessMenu[weekday[2]] = {
-"Breakfast" : "Rajgira\nVegetable Upma\nBadam milk,",
+"Breakfast" : "Rajgira <br />Vegetable Upma <br />Badam milk,",
 
-"Lunch" : "Veg Pulao\nColey\nCabbage\nTill Chutney",
+"Lunch" : "Veg Pulao <br />Coley <br />Cabbage <br />Till Chutney",
 
-"Dinner" : "Mix dal\nKarela\nGroundnut chutney",
+"Dinner" : "Mix dal <br />Karela <br />Groundnut chutney",
 
 "Snacks" : "Sweet corn"
 };
 
 yukthaarMessMenu[weekday[3]] = {
-"Breakfast" : "Ragi\nPoha\nSprout masala",
+"Breakfast" : "Ragi <br />Poha <br />Sprout masala",
 
-"Lunch" : "Capsicum\nTooar dal\nPaneer masala",
+"Lunch" : "Capsicum <br />Tooar dal <br />Paneer masala",
 
-"Dinner" : "Lobhiya\nLauki\nTomato Rice\nSuji Halwa",
+"Dinner" : "Lobhiya <br />Lauki <br />Tomato Rice <br />Suji Halwa",
 
-"Snacks" : "Boiled peanut\nLemon Juice"
+"Snacks" : "Boiled peanut <br />Lemon Juice"
 };
 
 yukthaarMessMenu[weekday[4]] = {
-"Breakfast" : "Rajgira\nRagi Idly-sambar\nSweet Lassi",
+"Breakfast" : "Rajgira <br />Ragi Idly-sambar <br />Sweet Lassi",
 
-"Lunch" : "Tooar dal\nBajra Roti\nMix Veg\nGroundnut chutney",
+"Lunch" : "Tooar dal <br />Bajra Roti <br />Mix Veg <br />Groundnut chutney",
 
-"Dinner" : "Turai\nMoong dal\nPoolihara",
+"Dinner" : "Turai <br />Moong dal <br />Poolihara",
 
-"Snacks" : "Murmura\nLButter milk"
+"Snacks" : "Murmura <br />LButter milk"
 };
 
 yukthaarMessMenu[weekday[5]] = {
-"Breakfast" : "Daliya Upma\nSprout Masala\nRagi",
+"Breakfast" : "Daliya Upma <br />Sprout Masala <br />Ragi",
 
-"Lunch" : "Rajma\nAloo Gobi\nSweet Daliya/Lauki Halwa\nGongura pickle",
+"Lunch" : "Rajma <br />Aloo Gobi <br />Sweet Daliya/Lauki Halwa <br />Gongura pickle",
 
-"Dinner" : "Tooar dal\nKandagadda",
+"Dinner" : "Tooar dal <br />Kandagadda",
 
-"Snacks" : "Sabudana khichdi\nCurd"
+"Snacks" : "Sabudana khichdi <br />Curd"
 };
 
 yukthaarMessMenu[weekday[6]] = {
-"Breakfast" : "Rajgira\nVegetable Poha\nBadam milk",
+"Breakfast" : "Rajgira <br />Vegetable Poha <br />Badam milk",
 
-"Lunch" : "Lobiya\nCabbage\nCurd Rice\nCurryleaf chutney",
+"Lunch" : "Lobiya <br />Cabbage <br />Curd Rice <br />Curryleaf chutney",
 
-"Dinner" : "Paneer masala\nKarela\nMoong dal",
+"Dinner" : "Paneer masala <br />Karela <br />Moong dal",
 
-"Snacks" : "Chivda\nLemon Juice"
+"Snacks" : "Chivda <br />Lemon Juice"
 };
 
 yukthaarMessMenu[weekday[0]] = {
-"Breakfast" : "Ragi\nSemiya (Lemon)",
+"Breakfast" : "Ragi <br />Semiya (Lemon)",
 
-"Lunch" : "Whole Chana dal\nPumpkin\nJowar Roti\nSweet Pongal/Rice\nTomato Chutney",
+"Lunch" : "Whole Chana dal <br />Pumpkin <br />Jowar Roti <br />Sweet Pongal/Rice <br />Tomato Chutney",
 
-"Dinner" : "Tooar Dal\nGawar phali\nMasal Khichdi",
+"Dinner" : "Tooar Dal <br />Gawar phali <br />Masal Khichdi",
 
 "Snacks" : "Masala Corn"
 };
@@ -84,65 +84,65 @@ yukthaarMessMenu[weekday[0]] = {
 
 var southMessMenu = {};
 southMessMenu[weekday[1]] = {
-"Breakfast" : "Kancheepuram Idly\nUpma + Sev\nChutney\nSambar\nKaram podi + Ghee",
+"Breakfast" : "Kancheepuram Idly <br />Upma + Sev <br />Chutney <br />Sambar <br />Karam podi + Ghee",
 
-"Lunch" : "Lemon rava/rice pulihora\nRoti\nDondakaya fry\nTomato Dal\nSambar\nBeerakaya Chutney",
+"Lunch" : "Lemon rava/rice pulihora <br />Roti <br />Dondakaya fry <br />Tomato Dal <br />Sambar <br />Beerakaya Chutney",
 
-"Dinner" : "Soup + Manchurian\nRoti\nBeerakaya curry\nTomato Dal\nSambar\nKaram Podi",
+"Dinner" : "Soup + Manchurian <br />Roti <br />Beerakaya curry <br />Tomato Dal <br />Sambar <br />Karam Podi",
 
 "Snacks" : "Onion Pakoda"};
 
 southMessMenu[weekday[2]] = {
-"Breakfast" : "Wada\nPongal\nChutney\nSambar ",
+"Breakfast" : "Wada <br />Pongal <br />Chutney <br />Sambar ",
 
-"Lunch" : "Rava kesari\nRoti\nKakarakaya masala\nPalak Dal\nTomato Chaaru\nKarivepaku Podi",
+"Lunch" : "Rava kesari <br />Roti <br />Kakarakaya masala <br />Palak Dal <br />Tomato Chaaru <br />Karivepaku Podi",
 
-"Dinner" : "Chapati\nPaneer Curry\nBeans­Carrot Curry\nDosakaya Dal\nRasam\nPudina Chutney",
+"Dinner" : "Chapati <br />Paneer Curry <br />Beans­Carrot Curry <br />Dosakaya Dal <br />Rasam <br />Pudina Chutney",
 
 "Snacks" : "Mix sprouts guggillu"};
 
 southMessMenu[weekday[3]] = {
-"Breakfast" : "Pullattu / Uttapam\nPoha\nChutney\nSambar",
+"Breakfast" : "Pullattu / Uttapam <br />Poha <br />Chutney <br />Sambar",
 
-"Lunch" : "Veg Pulav\nMirchi ka salan\nBrinjal Curry\nMudda Pappu\nRasam\nGongura Pickle",
+"Lunch" : "Veg Pulav <br />Mirchi ka salan <br />Brinjal Curry <br />Mudda Pappu <br />Rasam <br />Gongura Pickle",
 
-"Dinner" : "Aloo 65\nRoti\nDahi vada\nLeafy Vegetable Dal\nRasam\nChukkakura/Kandi Pickle",
+"Dinner" : "Aloo 65 <br />Roti <br />Dahi vada <br />Leafy Vegetable Dal <br />Rasam <br />Chukkakura/Kandi Pickle",
 
 "Snacks" : "Saggubiyyam Punugulu(12)"};
 
 southMessMenu[weekday[4]] = {
-"Breakfast" : "Punugulu\nIdli\nChutney\nSambar",
+"Breakfast" : "Punugulu <br />Idli <br />Chutney <br />Sambar",
 
-"Lunch" : "Fried Rice, + Corn/Veg Soup\nRoti\nMeal maker curry\nDosakaya Dal\nSambar\nRaita, Onions\nPandu Mirapakaya Pickle",
+"Lunch" : "Fried Rice, + Corn/Veg Soup <br />Roti <br />Meal maker curry <br />Dosakaya Dal <br />Sambar <br />Raita, Onions <br />Pandu Mirapakaya Pickle",
 
-"Dinner" : "Dosa\nAloo and Chutney\nJamun\nSambar\nTomato chutney",
+"Dinner" : "Dosa <br />Aloo and Chutney <br />Jamun <br />Sambar <br />Tomato chutney",
 
 "Snacks" : "Masala Corn"};
 
 southMessMenu[weekday[5]] = {
-"Breakfast" : "Pesarattu\nUpma\nChutney\nSambar",
+"Breakfast" : "Pesarattu <br />Upma <br />Chutney <br />Sambar",
 
-"Lunch" : "Veg Dum Biryani\nGreen peas masala\nThotakura Dal\nKobbari Charu\nRaita, Onions\nDosakaya Mukkala Chutney",
+"Lunch" : "Veg Dum Biryani <br />Green peas masala <br />Thotakura Dal <br />Kobbari Charu <br />Raita, Onions <br />Dosakaya Mukkala Chutney",
 
-"Dinner" : "Bisibele bath with boondi\nBobbatlu / Jilebi\nCapsicum curry\nMajjiga pulusu\nKaram Chitlu Podum",
+"Dinner" : "Bisibele bath with boondi <br />Bobbatlu / Jilebi <br />Capsicum curry <br />Majjiga pulusu <br />Karam Chitlu Podum",
 
 "Snacks" : "Aloo / Mirchi Bajji"};
 
 southMessMenu[weekday[6]] = {
-"Breakfast" : "Mysore Bonda\nSemiya Upma\nChutney\nAllam Chutney",
+"Breakfast" : "Mysore Bonda <br />Semiya Upma <br />Chutney <br />Allam Chutney",
 
-"Lunch" : "Coconut Rice\nRoti, Kofta\nBeetroot Curry\nBeerakaya/Dosakaya dal\nPacchi pulusu\nMango pickle",
+"Lunch" : "Coconut Rice <br />Roti, Kofta <br />Beetroot Curry <br />Beerakaya/Dosakaya dal <br />Pacchi pulusu <br />Mango pickle",
 
-"Dinner" : "Poori,Aloo kurma\nGoruchikkudu kobbari curry\nTomato Dal\nSambar\nGongura chutney",
+"Dinner" : "Poori,Aloo kurma <br />Goruchikkudu kobbari curry <br />Tomato Dal <br />Sambar <br />Gongura chutney",
 
 "Snacks" : "Chuduva"};
 
 southMessMenu[weekday[0]] = {
-"Breakfast" : "Ulli Karam Dosa\nUggani\nChutney\nSambar ",
+"Breakfast" : "Ulli Karam Dosa <br />Uggani <br />Chutney <br />Sambar ",
 
-"Lunch" : "Custard salad\nVeg Dum Biryani\nRaita, Onions\nBaingan Masala\nTomato Curry\nSambar\nNimmakaya Pickle",
+"Lunch" : "Custard salad <br />Veg Dum Biryani <br />Raita, Onions <br />Baingan Masala <br />Tomato Curry <br />Sambar <br />Nimmakaya Pickle",
 
-"Dinner" : "Bendakaya fry\nRoti + Aloo Curry\nMethi Dal\nPappu Charu\nDaddojanam\nKobbari Chutney",
+"Dinner" : "Bendakaya fry <br />Roti + Aloo Curry <br />Methi Dal <br />Pappu Charu <br />Daddojanam <br />Kobbari Chutney",
 
 "Snacks" : "Sarva Pindi"};
 
@@ -220,71 +220,71 @@ kadambVegMess[weekday[6]] = {
 
 var northMessMenu = {};
 northMessMenu[weekday[1]] = {
-"Breakfast" : "Poori\nAlu Sabji\nBread Pakoda\nCornflakes\nFruits\nBread Butter Jam Milk\nTea",
+"Breakfast" : "Poori <br />Alu Sabji <br />Bread Pakoda <br />Cornflakes <br />Fruits <br />Bread Butter Jam Milk <br />Tea",
 
-"Lunch" : "Rajama\nChana Dal\nMethi Aalu\nWhite Rice\nTomato Rice\nRoti\nDahi\nButter Milk\nAalu Tikki\nSalad\nLimboo Pani",
+"Lunch" : "Rajama <br />Chana Dal <br />Methi Aalu <br />White Rice <br />Tomato Rice <br />Roti <br />Dahi <br />Butter Milk <br />Aalu Tikki <br />Salad <br />Limboo Pani",
 
-"Dinner" : "Shahi Paneer\nLauki Sabji\nTuver Dal\nTandori Roti\nDahi\nWhite Rice\nPudina Rice\nSweet",
+"Dinner" : "Shahi Paneer <br />Lauki Sabji <br />Tuver Dal <br />Tandori Roti <br />Dahi <br />White Rice <br />Pudina Rice <br />Sweet",
 
 "Snacks" : "poha"
 };
 
 northMessMenu[weekday[2]] = {
-"Breakfast" : "Veg Cutlet\nVeg Macroni\nCornflakes,\nFruits,\nBread Butter Jam Milk,\nTea",
+"Breakfast" : "Veg Cutlet <br />Veg Macroni <br />Cornflakes, <br />Fruits, <br />Bread Butter Jam Milk, <br />Tea",
 
-"Lunch" : "Dal Makhani,\nAalu Mutter,\nTurai Sabji,\nWhite Rice,\nLemon Rice,\nRoti,\nDahi,\nButter Milk,\nSalad,\nLimbo Pani,\nAachar",
+"Lunch" : "Dal Makhani, <br />Aalu Mutter, <br />Turai Sabji, <br />White Rice, <br />Lemon Rice, <br />Roti, <br />Dahi, <br />Butter Milk, <br />Salad, <br />Limbo Pani, <br />Aachar",
 
-"Dinner" : "Aalu Paratha,\nMix Veg Sabji,\nDahi,\nButter Milk,\nTuver Dal,\nWhite Rice,\nFried Rice,\nJalebi,\nGreen & Sweet Chatani",
+"Dinner" : "Aalu Paratha, <br />Mix Veg Sabji, <br />Dahi, <br />Butter Milk, <br />Tuver Dal, <br />White Rice, <br />Fried Rice, <br />Jalebi, <br />Green & Sweet Chatani",
 
 "Snacks" : "chole chaat"
 };
 
 northMessMenu[weekday[3]] = {
-"Breakfast" : "Paneer Masala Dosa,\nMayonise Sandwich,\nCornflakes,\nFruits,\nBread Butter Jam,\nMilk,\nTea",
+"Breakfast" : "Paneer Masala Dosa, <br />Mayonise Sandwich, <br />Cornflakes, <br />Fruits, <br />Bread Butter Jam, <br />Milk, <br />Tea",
 
-"Lunch" : "Baingan Masala,\nAalu Cabbage,\nVeg Biryani,\nWhite Rice,\nMasoor Dal,\nRoti,\nDahi,\nVeg Raita,\nSalad,\nAachar,\nPapad,\nFruit custard",
+"Lunch" : "Baingan Masala, <br />Aalu Cabbage, <br />Veg Biryani, <br />White Rice, <br />Masoor Dal, <br />Roti, <br />Dahi, <br />Veg Raita, <br />Salad, <br />Aachar, <br />Papad, <br />Fruit custard",
 
-"Dinner" : "Mutter Paneer,\nGobi-Aalu,\nMasoor Dal,\nWhite rice,\nJeera Rice,\nRumali Roti,\nRoti,\nDahi,\nButter Milk,\nSalad,\nAachar,\nPapad",
+"Dinner" : "Mutter Paneer, <br />Gobi-Aalu, <br />Masoor Dal, <br />White rice, <br />Jeera Rice, <br />Rumali Roti, <br />Roti, <br />Dahi, <br />Butter Milk, <br />Salad, <br />Aachar, <br />Papad",
 
 "Snacks" : "mix pakoda"
 };
 
 northMessMenu[weekday[4]] = {
-"Breakfast" : "Dhokla,\nVada Pav,\nCornflakes,\nFruits,\nBread Butter Jam Milk,\nTea",
+"Breakfast" : "Dhokla, <br />Vada Pav, <br />Cornflakes, <br />Fruits, <br />Bread Butter Jam Milk, <br />Tea",
 
-"Lunch" : "Chole,\nAalu sabji Dry,\nMassor Dal,\nPuri,\nPalak Puri,\nWhite Rice,\nJeera Rice,\nDahi,\nButter Milk,\nMimbu Pani,\nSalad,\nPapad",
+"Lunch" : "Chole, <br />Aalu sabji Dry, <br />Massor Dal, <br />Puri, <br />Palak Puri, <br />White Rice, <br />Jeera Rice, <br />Dahi, <br />Butter Milk, <br />Mimbu Pani, <br />Salad, <br />Papad",
 
-"Dinner" : "Aalu Gobi,\nTuver Dal,\nManchurian,\nRoti,\nDahi,\nButter Milk,\nWhite Rice,\nTomato Rice,\nSweet Boondi,\nSalad,\nAachar",
+"Dinner" : "Aalu Gobi, <br />Tuver Dal, <br />Manchurian, <br />Roti, <br />Dahi, <br />Butter Milk, <br />White Rice, <br />Tomato Rice, <br />Sweet Boondi, <br />Salad, <br />Aachar",
 
 "Snacks" : "Samosa"
 };
 
 northMessMenu[weekday[5]] = {
-"Breakfast" : "Noodles,\nIdli Samabar Chutney,\nCornflakes,\nFruits,\nBread Butter Jam,\nMilk,\nTea",
+"Breakfast" : "Noodles, <br />Idli Samabar Chutney, <br />Cornflakes, <br />Fruits, <br />Bread Butter Jam, <br />Milk, <br />Tea",
 
-"Lunch" : "Bhindi Fry,\nDum Aalu,\nTuver Dal,\nWhite Rice,\nFried Rice,\nRoti,\nDahi,\nPujabi Lassi,\nDahi Vada,\nSalad,\nLimboo Pani",
+"Lunch" : "Bhindi Fry, <br />Dum Aalu, <br />Tuver Dal, <br />White Rice, <br />Fried Rice, <br />Roti, <br />Dahi, <br />Pujabi Lassi, <br />Dahi Vada, <br />Salad, <br />Limboo Pani",
 
-"Dinner" : "Palak Paneer,\nAalu Gobi,\nChana Dal,\nWhite Rice,\nRoti,\nDahi,\nPudina Rice,\nSalad,\nAachar",
+"Dinner" : "Palak Paneer, <br />Aalu Gobi, <br />Chana Dal, <br />White Rice, <br />Roti, <br />Dahi, <br />Pudina Rice, <br />Salad, <br />Aachar",
 
 "Snacks" : "bhel puri"
 };
 
 northMessMenu[weekday[6]] = {
-"Breakfast" : "Gobi or Aalu Paratha,\nDahi,\nGreen Chutney,\nVeg Sandwich,\nCornflakes,\nFruits,\nBread Butter Jam Milk,\nTea",
+"Breakfast" : "Gobi or Aalu Paratha, <br />Dahi, <br />Green Chutney, <br />Veg Sandwich, <br />Cornflakes, <br />Fruits, <br />Bread Butter Jam Milk, <br />Tea",
 
-"Lunch" : "Soya bean(gravy),\nAaluGobi,\nTuver Dal,\nAalu fry,\nWhite Rice,\nDhaniya Rice,\nRoti,\nDahi,\nRaita,\nSalad,\nLimboo pani,\nAachar",
+"Lunch" : "Soya bean(gravy), <br />AaluGobi, <br />Tuver Dal, <br />Aalu fry, <br />White Rice, <br />Dhaniya Rice, <br />Roti, <br />Dahi, <br />Raita, <br />Salad, <br />Limboo pani, <br />Aachar",
 
-"Dinner" : "Chole Batur,\nWhite Rice,\nPulav,\nGluab Jamun,\nDahi,\nButter Milk,\nSalad,\nAachar,\nPapad",
+"Dinner" : "Chole Batur, <br />White Rice, <br />Pulav, <br />Gluab Jamun, <br />Dahi, <br />Butter Milk, <br />Salad, <br />Aachar, <br />Papad",
 
 "Snacks" : "pav bhaji"
 };
 
 northMessMenu[weekday[0]] = {
-"Breakfast" : "Samosa,\nTomato Sauce,\nPoha,\nCornflakes,\nFruits,\nBread Butter Jam Milk,\nTea",
+"Breakfast" : "Samosa, <br />Tomato Sauce, <br />Poha, <br />Cornflakes, <br />Fruits, <br />Bread Butter Jam Milk, <br />Tea",
 
-"Lunch" : "Aalu Palak,\nVeg. Kofta,\nBhindi,\nTuver Dal,\nWhite Rice,\nPudina Rice,\nRotim,\nDahi,\nBundi Raita,\nSalad,\nLimboo Pani,\nAachar,\nSooji Halwa",
+"Lunch" : "Aalu Palak, <br />Veg. Kofta, <br />Bhindi, <br />Tuver Dal, <br />White Rice, <br />Pudina Rice, <br />Rotim, <br />Dahi, <br />Bundi Raita, <br />Salad, <br />Limboo Pani, <br />Aachar, <br />Sooji Halwa",
 
-"Dinner" : "Aalu Shimala Mirch,\nPaneer Dry,\nTuver Dal,\nWhite Rice,\nLemon Rice,\nParotha,\nDahi,\nSalad",
+"Dinner" : "Aalu Shimala Mirch, <br />Paneer Dry, <br />Tuver Dal, <br />White Rice, <br />Lemon Rice, <br />Parotha, <br />Dahi, <br />Salad",
 
 "Snacks" : "veg cutlet"
 };
